@@ -1,0 +1,5 @@
+# @name Health Check
+GET {{origin}}/health_check
+Accept: application/json
+
+###
